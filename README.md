@@ -1,6 +1,6 @@
 # Trabajo Práctico Módulo 3
-Aprendizaje no supervisado
-Segmentación de clientes de un Centro Comercial
+Aprendizaje NO supervisado
+Segmentación de Clientes de un Centro Comercial
 
 Descripción:
 La segmentación de clientes es un proceso a través del cual se clasifica a los mismos en diferentes grupos que comparten características similares de formas tales que los resultados sean relevantes para campañas de marketing. Las características utilizadas para describir a cada cliente pueden ser edad, sexo, intereses, hábitos de consumo, entre otros.
